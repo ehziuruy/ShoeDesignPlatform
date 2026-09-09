@@ -23,8 +23,6 @@ frontend/dist/
 frontend/build/
 frontend/node_modules/
 node_modules/
-package-lock.json
-yarn.lock
 
 # 爬虫下载的纹理
 spider/downloads/
