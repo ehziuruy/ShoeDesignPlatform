@@ -1,0 +1,26 @@
+{
+  "source": "spider/textures.json（皮革纹理爬虫产物，同步自 spider/downloads/）",
+  "count": 5,
+  "textures": [
+    {
+      "name": "Leather Textures - Texture X",
+      "file": "01-Leather-Textures---Texture-X.jpg"
+    },
+    {
+      "name": "10,000+ Free Leather Texture & Leather Photos - Pixabay",
+      "file": "02-10-000-Free-Leather-Texture-Leather-Phot.jpg"
+    },
+    {
+      "name": "200+ Free Leather Texture & Leather Images - Pixabay",
+      "file": "03-200-Free-Leather-Texture-Leather-Images-.jpg"
+    },
+    {
+      "name": "Leather Texture Wallpapers - Top Free Leather Texture Backgrounds ...",
+      "file": "04-Leather-Texture-Wallpapers---Top-Free-Le.jpg"
+    },
+    {
+      "name": "60,000+ Free Leather Texture & Leather Images - Pixabay",
+      "file": "05-60-000-Free-Leather-Texture-Leather-Imag.jpg"
+    }
+  ]
+}

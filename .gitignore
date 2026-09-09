@@ -1,0 +1,42 @@
+# 敏感配置
+backend/.env
+
+# 日志文件
+*.log
+backend.log
+
+# 上传的模型文件（不应提交到仓库）
+backend/uploads/
+*.stl
+*.obj
+*.glb
+*.gltf
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+backend/__pycache__/
+
+# 前端构建产物 & 依赖
+frontend/dist/
+frontend/build/
+frontend/node_modules/
+node_modules/
+package-lock.json
+yarn.lock
+
+# 爬虫下载的纹理
+spider/downloads/
+spider/textures.json
+
+# 虚拟环境
+venv/
+.venv/
+backend/venv/
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
