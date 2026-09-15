@@ -2,6 +2,32 @@
 
 基于 **FastAPI + React + Three.js** 的 3D 鞋款设计平台项目骨架。
 
+## 界面展示
+
+### 🏠 工作台 Dashboard
+
+统计卡片 + 项目网格，支持上传 / 删除 / 重命名 / 状态切换。
+
+![Dashboard](docs/images/dashboard.png)
+
+### ✏️ 3D 编辑器 Editor
+
+鞋模实时渲染，4 个部件独立材质 / 法线强度调节 / 灯光预设，右侧面板可选皮革纹理贴图。
+
+![Editor](docs/images/editor.png)
+
+### 🎨 AI 配色工作台
+
+基于色彩理论（单色系 / 邻近色 / 互补色 / 三角配色）生成配色方案，点击即复制 HEX。
+
+![Colors](docs/images/colors.png)
+
+### ⚙️ 设置 Settings
+
+账号管理 / 偏好重置 / 关于。
+
+![Settings](docs/images/settings.png)
+
 ## 技术栈
 
 | 层级 | 技术 |
